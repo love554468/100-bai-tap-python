@@ -1,0 +1,10 @@
+python instance và object
+
+object chỉ một loại đối tượng
+ví dụ như con người là 1 object
+
+nhưng instance là một thể hiện của
+đối tượng
+
+ví dụ như mình là 1 instance của
+object people

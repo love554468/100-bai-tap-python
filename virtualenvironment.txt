@@ -1,0 +1,12 @@
+Python virtual environment
+
+virtualenv là engine tạo ra vir env
+
+virtual environment là môi trường ảo cho phép mình sử dụng các package của python mà ko làm
+ảnh hưởng đến những package đã được cái sẵn trên python
+
+virtualenv là một công cụ phổ biến tạo môi trường python ảo(môi trường cô lập) cho
+việc sử dụng các thư viện của python trong các project khác nhau tránh xung đột.
+Nếu mày ko biết cái này tao highly recommend nó để m học, rất hữu ích và nó sẽ 
+
+virtualenvwrapper là một tập hợp của tiện ích virtualenv 

@@ -1,0 +1,26 @@
+pycharm or visual studiocode
+
+IDE: integrated development environment 
+(Môi trường phát triển tích hợp)
+
+Pycharm by IntelliJ and Visual Studio Code by 
+MS 
+
+certain aspect: khía cạnh nhất điijnh
+approach of writing code: tiếp nhận viết mã
+beyond
+
+- This is a personal choice for developers
+#############
+@Performance 
+- VSC: faster
+
+@Virtual environment
+- same same
+
+@Extension
+- pycharm cho 1 ngôn ngữ python rồi
+- visual thì cho đa ngôn ngữ
+
+@Resource consumption
+- Visual quản lý tài nguyên tốt hơn

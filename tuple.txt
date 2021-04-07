@@ -1,0 +1,44 @@
+Python
+
+##tuples 
+-là dãy dữ liệu bất biến, các thao tác
+cập nhật trên tuple đều tạo ra một thực thể 
+mơí 
+-Có thể sử dụng nhiều kiểu dl
+
+Đặt trong cặp dấu ngoặc()
+
+##so sánh với list
+- viết list dùng dấu []
+- list là kiểu dl có thể biến đổi (mutable)
+có thể dùng các phương thức như append() để 
+thêm phần tử vào list hoặc sd phương thức 
+remove để xoá mà không tạo ra thêm một thực thể
+list khác trên bộ nhớ
+
+- TUPLE: không có phương thức append,remove như
+list, à đối tượng bất biến
+- Một số phương thức hoặc toán tử mà bạn ghĩ
+nó để cập nhật tuple nhưng không nó dựa vào
+tuple ban đầu để tạo ra 1 tuple mới
+
+tuple1 = tuple1 + (2,3)->tạo ra tuple != tupel1
+
+## truy cập các ptu của tuples
+-sử dụng for: 
+	for i in tuple1:
+-sử dụng chỉ số để truy cập:
+	for i in range(0,len(tuple1)):
+		print(tuple1[i])
+subTuple = tuple[1:4] -> lấy 1,2,3
+(tuple tính từ 0)
+có thể dùng chỉ số âm
+
+## hàm liên quan đến tuple
+len(tup)
+max(tup)
+min()
+tuple(list) -> chuyển 1 list thành tuple
+
+tuple.count(obj) trả về số lần xh obj trong tup
+

@@ -1,0 +1,12 @@
+what is pip ?
+
+Hệ thống quản lý gói và quản lý pm viết
+ bởi python
+
+pip for python
+chứ năng quản lý gói PyPI từ commandline
+
+
+
+crawling
+

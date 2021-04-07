@@ -1,0 +1,17 @@
+__init__ trong python
+
+Là hàm dựng hay constructor của 1 class
+khi một thực thể instance của 1 class được
+tạo ra thì hàm này sẽ được thực thi đầu tiên 
+và một cách tự động
+
+self giống như this trong cách ngôn ngữ hướng 
+đối tượng khác, đối với các ngôn ngữ khác thì
+không cần phải truyền this hoặc self vào nhưng
+python thì yêu cầu như vậy
+
+self trong python không nhất thiết phải là self
+mà co thể đặt tên biến khác cũng được, nhưng ng
+ta dùng self để thể hiện đây là thực thể của 
+object trong tiếng anh self có thể hiểu là bản
+thân nó điều này giúp việc đọc code dễ hơn
